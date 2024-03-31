@@ -2,13 +2,13 @@ UP: /ext/subghz/daeyejim/Up.sub
 UPLABEL: +
 
 DOWN: /ext/subghz/daeyejim/Down.sub
-DOWNLABEL: -
+DLABEL: -
 
 OK: /ext/subghz/daeyejim/Ok.sub
 OKLABEL: Start
 
 LEFT: /ext/subghz/daeyejim/Stop.sub
-LEFTLABEL: Stop
+LLABEL: Stop
 
 RIGHT: /ext/subghz/daeyejim/M.sub
-RIGHTLABEL: Mode
+RLABEL: Mode
