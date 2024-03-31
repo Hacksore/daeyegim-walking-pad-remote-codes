@@ -19,4 +19,4 @@ Stop
 ```
 
 ### TODO
-turn this in a flipper app somehow?
+- Somehow make the remote responsive, when you spam click the plus button it won't increase the speed 💀
