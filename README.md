@@ -20,3 +20,8 @@ Stop
 
 ### TODO
 - Somehow make the remote responsive, when you spam click the plus button it won't increase the speed 💀
+- NOTE: idk if the codes works for others if there is a pairing process 
+
+### Resources
+the docs to flipper `.sub` files
+https://developer.flipper.net/flipperzero/doxygen/subghz_file_format.html
